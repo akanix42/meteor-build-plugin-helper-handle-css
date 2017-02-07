@@ -1,0 +1,12 @@
+{
+  "name": "meteor-build-plugin-helper-handle-css",
+  "version": "0.0.1",
+  "author": "Nathan Reid <nathan-code@nathantreid.com",
+  "license": "ISC",
+  "main": "dist/handle-css.js",
+  "devDependencies": {
+    "babel-preset-env": "^1.1.8",
+    "gulp": "^3.9.1",
+    "gulp-build-babel-standard": "^0.0.2"
+  }
+}

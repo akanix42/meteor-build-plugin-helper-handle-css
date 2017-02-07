@@ -1,0 +1,6 @@
+.idea/
+src/
+.babelrc
+gulpfile.js
+yarn.lock
+npm-debug.log
